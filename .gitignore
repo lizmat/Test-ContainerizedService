@@ -1,3 +1,2 @@
-lib/.precomp
-.idea/
-*.iml
+.precomp/
+/Test-ContainerizedService-*
